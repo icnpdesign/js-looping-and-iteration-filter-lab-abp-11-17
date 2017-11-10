@@ -6,3 +6,13 @@ function findMatching(drivers, driverName) {
     return driverName.toLowercase() === name.toLowerCase();
   });
 }
+
+function findMatching (collection, name) {
+  for (const name of collection) {
+    if (user.name === name) {
+      console.log(user.name);
+    }
+  }
+}
+ 
+colorFilter(users, 'Red');
