@@ -8,10 +8,10 @@ function filter (driver) {
     }
   }
 }
- 
+
 function findMatching(drivers) {
-  return user['favoriteAnimal'] === 'Elephant';
+  return user['name'] === 'name';
 }
- 
-filter(users);
+
+filter(drivers);
 }
