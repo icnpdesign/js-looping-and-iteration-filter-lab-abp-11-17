@@ -1,6 +1,17 @@
 // Code your solution in this file
 const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby'];
-function findMatching(drivers, name) {
-  for (const driver)
-  return drivers;
+
+function filter (driver) {
+  for (const user of driver) {
+  if (findMatching(user)) {
+      console.log(drivers.name);
+    }
+  }
+}
+ 
+function findMatching(drivers) {
+  return user['favoriteAnimal'] === 'Elephant';
+}
+ 
+filter(users);
 }
